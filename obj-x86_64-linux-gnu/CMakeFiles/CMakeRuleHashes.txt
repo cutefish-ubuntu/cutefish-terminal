@@ -1,0 +1,9 @@
+# Hashes of file build rules.
+541f0f3fee8e88c97e29bea77f49a1c9 ../translations/en_US.ts
+9ef7f00d93ce53ca1f16ad7a2b259842 ../translations/zh_CN.ts
+757c3f46f1985977fc9b911f96e174d7 CMakeFiles/cutefish-terminal_autogen
+ecae62e5a69839f9e71ceb07dd6acd5d CMakeFiles/translations
+80139b39e743ba8b0f1d061843299b3f cutefish-terminal_autogen/UVLADIE3JM/qrc_resources.cpp
+829edb2329afb0cc11c1ecd0ce409a47 en_US.qm
+f989040ecbb651c798e87cb86ba32468 qmltermwidget/CMakeFiles/cutefishqmltermwidget_autogen
+fbe28429d52301108904b961d59eb52f zh_CN.qm

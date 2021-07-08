@@ -1,0 +1,17 @@
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/CMakeFiles/install/strip.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/CMakeFiles/install/local.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/CMakeFiles/edit_cache.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/CMakeFiles/translations.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/CMakeFiles/install.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/CMakeFiles/list_install_components.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/CMakeFiles/rebuild_cache.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/CMakeFiles/cutefish-terminal.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/CMakeFiles/cutefish-terminal_autogen.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/qmltermwidget/CMakeFiles/install/strip.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/qmltermwidget/CMakeFiles/install/local.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/qmltermwidget/CMakeFiles/install.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/qmltermwidget/CMakeFiles/list_install_components.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/qmltermwidget/CMakeFiles/rebuild_cache.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/qmltermwidget/CMakeFiles/edit_cache.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/qmltermwidget/CMakeFiles/cutefishqmltermwidget.dir
+/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/qmltermwidget/CMakeFiles/cutefishqmltermwidget_autogen.dir

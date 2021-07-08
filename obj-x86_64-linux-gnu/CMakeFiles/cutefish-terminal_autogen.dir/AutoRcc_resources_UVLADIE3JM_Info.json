@@ -1,0 +1,30 @@
+{
+	"BUILD_DIR" : "/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/cutefish-terminal_autogen",
+	"CMAKE_BINARY_DIR" : "/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_BINARY_DIR" : "/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/root/Downloads/cutefish/terminal",
+	"CMAKE_SOURCE_DIR" : "/root/Downloads/cutefish/terminal",
+	"INCLUDE_DIR" : "/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/cutefish-terminal_autogen/include",
+	"INPUTS" : 
+	[
+		"/root/Downloads/cutefish/terminal/src/qml/ExitPromptDialog.qml",
+		"/root/Downloads/cutefish/terminal/src/qml/GlobalSettings.qml",
+		"/root/Downloads/cutefish/terminal/src/qml/ImageButton.qml",
+		"/root/Downloads/cutefish/terminal/src/qml/Terminal.qml",
+		"/root/Downloads/cutefish/terminal/src/qml/main.qml",
+		"/root/Downloads/cutefish/terminal/src/images/light/close.svg",
+		"/root/Downloads/cutefish/terminal/src/images/light/add.svg",
+		"/root/Downloads/cutefish/terminal/src/images/dark/close.svg",
+		"/root/Downloads/cutefish/terminal/src/images/dark/add.svg"
+	],
+	"LOCK_FILE" : "/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/CMakeFiles/cutefish-terminal_autogen.dir/AutoRcc_resources_UVLADIE3JM_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "UVLADIE3JM",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/root/Downloads/cutefish/terminal/obj-x86_64-linux-gnu/CMakeFiles/cutefish-terminal_autogen.dir/AutoRcc_resources_UVLADIE3JM_Used.txt",
+	"SOURCE" : "/root/Downloads/cutefish/terminal/src/resources.qrc",
+	"VERBOSITY" : 0
+}

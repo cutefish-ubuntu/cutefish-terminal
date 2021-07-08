@@ -1,0 +1,13 @@
+Package: cutefish-terminal-dbgsym
+Package-Type: ddeb
+Source: cutefish-terminal
+Version: 0.1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Installed-Size: 4270
+Depends: cutefish-terminal (= 0.1)
+Section: debug
+Priority: optional
+Description: debug symbols for cutefish-terminal
+Build-Ids: 8d842b5190b56a608b8694f6ea2fd73a2e926f7f eb8d0c3453cca0a974b332273a2ad5ac523a3fad
